@@ -12,3 +12,9 @@
 
 What are functions and why do we use them?
 
+instructions to perform a task
+resuable code
+control flow
+include parameters
+building blocks of javascript
+allows us to structure larger programs
